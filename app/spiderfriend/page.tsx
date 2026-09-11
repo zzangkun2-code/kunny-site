@@ -109,7 +109,7 @@ export default function SpiderFriendPage() {
             Windows 10/11 · 91MB · 관리자 권한 불필요
           </p>
           <a
-            href="https://YOUR-ITCH-IO-LINK-HERE"
+            href="https://zzangkun2-code.itch.io/spiderfriend"
             className="inline-flex items-center gap-2 bg-ink text-paper font-mono text-sm px-8 py-3.5 rounded-sm hover:bg-indigo transition-colors"
           >
             SpiderFriend 다운로드
