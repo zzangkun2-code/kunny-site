@@ -3,10 +3,9 @@ import Image from "next/image";
 
 const career = [
   "초등교사",
-  "자카르타 한국국제학교 근무 ('18 ~ '21)",
-  "APEC 국제교육협력원(iACE) ALCoB 교사",
-  "국제교류수업 교사연구회장 (2년)",
-  "PEACE 국제교류 행사 기획 및 운영",
+  "자카르타 한국국제학교 근무('18~'21)",
+  "APEC 국제교육협력원(IACE) ALCoB 교사",
+  "전북 국제교류수업 교사연구회('24, '25 회장)",
 ];
 
 const books = [
