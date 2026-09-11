@@ -24,7 +24,7 @@ export default function WorldmatePage() {
 
       <section className="max-w-3xl mx-auto px-6 pt-12 pb-16">
         <p className="font-mono text-xs text-indigo mb-4">GAME · 개발 중 · 베타 테스트 예정</p>
-        <h1 className="text-4xl sm:text-5xl font-medium text-ink leading-[1.2]">
+        <h1 className="font-serif text-4xl sm:text-5xl font-semibold text-ink leading-[1.2]">
           월드메이트
         </h1>
         <p className="mt-3 text-lg text-ink-soft italic">세계와 만난 열두 달</p>
@@ -70,7 +70,7 @@ export default function WorldmatePage() {
       {/* Beta CTA */}
       <section className="max-w-3xl mx-auto px-6 pb-24">
         <div className="border border-line rounded-sm p-8 sm:p-10 bg-indigo text-paper">
-          <h2 className="text-2xl font-medium mb-3">베타 테스트, 곧 열립니다</h2>
+          <h2 className="font-serif text-2xl font-semibold mb-3">베타 테스트, 곧 열립니다</h2>
           <p className="text-paper/80 leading-relaxed max-w-md">
             아직 공개 전이지만 조만간 베타 테스트로 찾아뵐 예정입니다. 소식은
             인스타그램과 스레드에서 가장 먼저 안내해드릴게요.

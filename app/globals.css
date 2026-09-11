@@ -10,6 +10,11 @@
   --ember: #c7561f;
   --ember-soft: #e0844f;
   --line: #ddd4c2;
+  --font-stack-serif: "Hahmlet", "Noto Serif KR", ui-serif, Georgia, serif;
+  --font-stack-sans: "Inter", "Noto Sans KR", ui-sans-serif, system-ui,
+    sans-serif;
+  --font-stack-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo,
+    Consolas, "Noto Sans Mono CJK KR", monospace;
 }
 
 @theme inline {
@@ -22,9 +27,9 @@
   --color-ember: var(--ember);
   --color-ember-soft: var(--ember-soft);
   --color-line: var(--line);
-  --font-serif: "Source Serif 4", "Noto Serif KR", ui-serif, Georgia, serif;
-  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo,
-    Consolas, "Noto Sans Mono CJK KR", monospace;
+  --font-serif: var(--font-stack-serif);
+  --font-sans: var(--font-stack-sans);
+  --font-mono: var(--font-stack-mono);
 }
 
 html {

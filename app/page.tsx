@@ -19,7 +19,7 @@ export default function Home() {
       {/* Hero */}
       <section className="max-w-4xl mx-auto px-6 pt-16 pb-20">
         <p className="font-mono text-sm text-ember mb-6">Kunny</p>
-        <h1 className="text-4xl sm:text-5xl leading-[1.25] font-medium text-ink max-w-2xl">
+        <h1 className="font-serif text-4xl sm:text-5xl leading-[1.2] font-semibold text-ink max-w-2xl">
           낮에는 교실에서 국제교류수업을 만들고,
           <br />
           <span className="italic text-indigo">밤에는 그 경험을 코드로</span> 옮깁니다.

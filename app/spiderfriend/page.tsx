@@ -34,7 +34,7 @@ export default function SpiderFriendPage() {
 
       <section className="max-w-3xl mx-auto px-6 pt-12 pb-14">
         <p className="font-mono text-xs text-ember mb-4">TOY APP · Windows · 91MB</p>
-        <h1 className="text-4xl sm:text-5xl font-medium text-ink leading-[1.2] flex items-center gap-3">
+        <h1 className="font-serif text-4xl sm:text-5xl font-semibold text-ink leading-[1.2] flex items-center gap-3">
           거미인간 <span className="text-3xl">🕸️</span>
         </h1>
         <p className="mt-3 text-lg text-ink-soft italic">SpiderFriend</p>
