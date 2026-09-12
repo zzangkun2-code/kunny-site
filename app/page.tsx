@@ -196,10 +196,20 @@ export default function Home() {
         <div className="border-t border-line pt-6 flex items-center justify-between font-mono text-xs text-ink-soft">
           <span>© Kunny</span>
           <div className="flex gap-4">
-            <a href="#" className="hover:text-ink transition-colors">
+            <a
+              href="https://www.instagram.com/worldmate_teacher/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-ink transition-colors"
+            >
               Instagram
             </a>
-            <a href="#" className="hover:text-ink transition-colors">
+            <a
+              href="https://www.threads.com/@worldmate_teacher"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-ink transition-colors"
+            >
               Threads
             </a>
           </div>
